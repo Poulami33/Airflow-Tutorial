@@ -1,0 +1,5 @@
+[2024-12-27T21:21:14.466+0530] {processor.py:186} INFO - Started process (PID=5992) to work on /Users/poulamikarmakar/Desktop/airflow_docker/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-27T21:21:14.467+0530] {processor.py:914} INFO - Processing file /Users/poulamikarmakar/Desktop/airflow_docker/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-27T21:21:14.467+0530] {logging_mixin.py:190} INFO - [2024-12-27T21:21:14.467+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/poulamikarmakar/Desktop/airflow_docker/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-27T21:21:14.468+0530] {processor.py:927} WARNING - No viable dags retrieved from /Users/poulamikarmakar/Desktop/airflow_docker/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-27T21:21:14.499+0530] {processor.py:208} INFO - Processing /Users/poulamikarmakar/Desktop/airflow_docker/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
